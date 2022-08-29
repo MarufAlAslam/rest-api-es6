@@ -27,3 +27,14 @@ body {
     font-size: 1.5em;
     color: yellow;
 }
+
+@media screen and (max-width: 767px) {
+    #quote-holder {
+        padding: 25px;
+        max-width: 100%;
+        margin: auto;
+        background-color: darkcyan;
+        border-radius: 10px;
+        color: white;
+    }
+}
