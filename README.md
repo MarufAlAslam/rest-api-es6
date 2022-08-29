@@ -2,3 +2,4 @@
 
 api list:
     1. Kanye West Quotes API (kanye.html)
+    2. Random Users API (random-user.html)
